@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\3sum\3sum\main.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\3sum\3sum\main.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\3sum\3sum\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\3sum\3sum\main.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  3sum.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\3sum\Debug\3sum.exe
+  3sum.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\3sum\Debug\3sum.pdb (Full PDB)
