@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\longestsubstring\longestsubstring\main.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  longestSubstring.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\longestSubstring\Debug\longestSubstring.exe
+  longestSubstring.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\longestSubstring\Debug\longestSubstring.pdb (Full PDB)
