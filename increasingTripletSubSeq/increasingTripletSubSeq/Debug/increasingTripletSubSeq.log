@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\increasingtripletsubseq\increasingtripletsubseq\main.cpp(12): warning C4804: '<': unsafe use of type 'bool' in operation
+  increasingTripletSubSeq.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\increasingTripletSubSeq\Debug\increasingTripletSubSeq.exe
+  increasingTripletSubSeq.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\increasingTripletSubSeq\Debug\increasingTripletSubSeq.pdb (Full PDB)
