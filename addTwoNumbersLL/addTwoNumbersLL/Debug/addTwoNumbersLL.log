@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\addtwonumbersll\addtwonumbersll\main.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\princeja\desktop\hr\argoai\addtwonumbersll\addtwonumbersll\main.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\princeja\desktop\hr\argoai\addtwonumbersll\addtwonumbersll\main.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\princeja\desktop\hr\argoai\addtwonumbersll\addtwonumbersll\main.cpp(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  addTwoNumbersLL.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\addTwoNumbersLL\Debug\addTwoNumbersLL.exe
+  addTwoNumbersLL.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\addTwoNumbersLL\Debug\addTwoNumbersLL.pdb (Full PDB)
