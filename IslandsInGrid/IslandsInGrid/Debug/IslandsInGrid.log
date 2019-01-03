@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\islandsingrid\islandsingrid\main.cpp(17): warning C4018: '>=': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\islandsingrid\islandsingrid\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\islandsingrid\islandsingrid\main.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\islandsingrid\islandsingrid\main.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  IslandsInGrid.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\IslandsInGrid\Debug\IslandsInGrid.exe
+  IslandsInGrid.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\IslandsInGrid\Debug\IslandsInGrid.pdb (Full PDB)

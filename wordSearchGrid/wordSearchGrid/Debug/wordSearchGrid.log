@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\wordsearchgrid\wordsearchgrid\main.cpp(11): warning C4018: '>=': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\wordsearchgrid\wordsearchgrid\main.cpp(14): warning C4018: '>=': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\wordsearchgrid\wordsearchgrid\main.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\wordsearchgrid\wordsearchgrid\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\wordsearchgrid\wordsearchgrid\main.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  wordSearchGrid.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\wordSearchGrid\Debug\wordSearchGrid.exe
+  wordSearchGrid.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\wordSearchGrid\Debug\wordSearchGrid.pdb (Full PDB)

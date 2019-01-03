@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\princeja\desktop\hr\argoai\permutations\permutations\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  permutations.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\permutations\Debug\permutations.exe
+  permutations.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\permutations\Debug\permutations.pdb (Full PDB)
