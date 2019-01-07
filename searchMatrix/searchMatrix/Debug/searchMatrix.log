@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\princeja\desktop\hr\argoai\searchmatrix\searchmatrix\source.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\searchmatrix\searchmatrix\source.cpp(29): warning C4018: '>=': signed/unsigned mismatch
+  searchMatrix.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\searchMatrix\Debug\searchMatrix.exe
+  searchMatrix.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\searchMatrix\Debug\searchMatrix.pdb (Full PDB)
