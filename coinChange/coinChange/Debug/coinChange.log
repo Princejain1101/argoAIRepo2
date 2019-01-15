@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\princeja\desktop\hr\argoai\coinchange\coinchange\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\coinchange\coinchange\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\princeja\desktop\hr\argoai\coinchange\coinchange\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  coinChange.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\coinChange\Debug\coinChange.exe
+  coinChange.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\coinChange\Debug\coinChange.pdb (Full PDB)

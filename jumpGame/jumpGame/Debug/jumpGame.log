@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\princeja\desktop\hr\argoai\jumpgame\jumpgame\source.cpp(11): warning C4018: '>=': signed/unsigned mismatch
+  jumpGame.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\jumpGame\Debug\jumpGame.exe
+  jumpGame.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\jumpGame\Debug\jumpGame.pdb (Full PDB)

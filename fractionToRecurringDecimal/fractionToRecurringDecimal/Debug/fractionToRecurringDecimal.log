@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\princeja\desktop\hr\argoai\fractiontorecurringdecimal\fractiontorecurringdecimal\source.cpp(29): warning C4307: '+': integral constant overflow
+c:\users\princeja\desktop\hr\argoai\fractiontorecurringdecimal\fractiontorecurringdecimal\source.cpp(59): warning C4307: '+': integral constant overflow
+c:\users\princeja\desktop\hr\argoai\fractiontorecurringdecimal\fractiontorecurringdecimal\source.cpp(99): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  fractionToRecurringDecimal.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\fractionToRecurringDecimal\Debug\fractionToRecurringDecimal.exe
+  fractionToRecurringDecimal.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\fractionToRecurringDecimal\Debug\fractionToRecurringDecimal.pdb (Full PDB)

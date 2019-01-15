@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\princeja\desktop\hr\argoai\randomset\randomset\source.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randomSet.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\randomSet\Debug\randomSet.exe
+  randomSet.vcxproj -> C:\Users\princeja\Desktop\HR\argoAI\randomSet\Debug\randomSet.pdb (Full PDB)
